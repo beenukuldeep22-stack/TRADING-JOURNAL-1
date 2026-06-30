@@ -1,0 +1,6 @@
+{
+  "name": "Market Predator — Trading Journal",
+  "description": "Elite Trading Journal with automated metrics, chart screenshot gallery, and interactive strategy notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
